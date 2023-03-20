@@ -1,7 +1,7 @@
 ### Hi, I’m @jumehan 👩🏻‍💻
 
-- 📝 I write programs in HTML, CSS, JavaScript, React, Typescript, Python, SQL & more...
-- 📓 Currently pair-programming:
+- 📝 I use HTML, CSS, JavaScript, React, Typescript, Python, SQL & more...
+- 📓 Latest project: 
   - SQL/Node/Express/Typescript/AWS backend API [Sejour BE](https://github.com/marshall-buck/sejour-be) 
   - Responsive React/TS/MUI frontend [Sejour FE](https://github.com/marshall-buck/sejour-fe)
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/juliemenghan/)
