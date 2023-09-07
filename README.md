@@ -1,7 +1,7 @@
 ### Hi, I’m @jumehan 👩🏻‍💻
 
-- 🪪 Full-Stack SWE currently working in Azure Cloud web dev
-- 📝 I'm familiar with HTML, CSS, JavaScript, React, Typescript, Python, SQL & more...
+- 🪪 Fullstack SWE currently working on serverless APIs in AWS in the healthcare non-profit sector
+- 📝 Currently, I'm mostly working in NodeJS, Python, SQL and noSQL
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/juliemenghan/)
 
 <!---
